@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T19:34:39.917Z",
+  "generated_at": "2026-10-09T19:34:42.068Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -78,6 +78,19 @@
       "last_pushed_at": "2026-08-09T21:27:23.654Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-08-10T20:51:49.781Z",
+      "last_pushed_at": "2026-08-10T20:51:49.781Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
