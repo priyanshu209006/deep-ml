@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T19:34:42.068Z",
+  "generated_at": "2026-10-09T19:34:43.843Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -91,6 +91,58 @@
       "last_pushed_at": "2026-08-10T20:51:49.781Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-08-19T17:57:12.523Z",
+      "last_pushed_at": "2026-08-19T17:57:12.523Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-08-19T18:45:02.801Z",
+      "last_pushed_at": "2026-08-19T18:45:02.801Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-08-19T19:23:29.667Z",
+      "last_pushed_at": "2026-08-19T19:23:29.667Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:250": {
+      "kind": "problem",
+      "id": "250",
+      "title": "Calculate SLA Compliance Metrics for Model Service",
+      "difficulty": "easy",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/250",
+      "path": "problems/0250-calculate-sla-compliance-metrics-for-model-service",
+      "first_solved_at": "2026-08-19T20:02:27.626Z",
+      "last_pushed_at": "2026-08-19T20:02:27.626Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }
