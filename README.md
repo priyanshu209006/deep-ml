@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 13 problems · 0 labs · 0 math
+**14** solved · 14 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Batch Prediction Health Metrics](https://www.deep-ml.com/problems/249) | easy | 2026-08-20 | [solution](problems/0249-calculate-batch-prediction-health-metrics) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-08-09 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate SLA Compliance Metrics for Model Service](https://www.deep-ml.com/problems/250) | easy | 2026-08-19 | [solution](problems/0250-calculate-sla-compliance-metrics-for-model-service) |
+| [Implement the ELU Activation Function](https://www.deep-ml.com/problems/97) | easy | 2026-08-22 | [solution](problems/0097-implement-the-elu-activation-function) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-10-25 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Per-Token Decode Latency from Memory Bandwidth](https://www.deep-ml.com/problems/1214) | easy | 2026-08-21 | [solution](problems/1214-per-token-decode-latency-from-memory-bandwidth) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-08-06 | [solution](problems/0003-reshape-matrix) |
