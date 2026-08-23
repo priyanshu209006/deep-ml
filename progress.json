@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T19:34:51.044Z",
+  "generated_at": "2026-10-09T19:34:53.449Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -182,6 +182,32 @@
       "last_pushed_at": "2026-08-22T17:36:32.680Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:611": {
+      "kind": "problem",
+      "id": "611",
+      "title": "Feature Receptive Field Visualization",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/611",
+      "path": "problems/0611-feature-receptive-field-visualization",
+      "first_solved_at": "2026-08-23T18:20:10.145Z",
+      "last_pushed_at": "2026-08-23T18:20:10.145Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-08-23T19:02:13.452Z",
+      "last_pushed_at": "2026-08-23T19:02:13.452Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
