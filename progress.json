@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T09:03:26.340Z",
+  "generated_at": "2026-10-11T09:03:28.176Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -312,6 +312,19 @@
       "last_pushed_at": "2026-08-31T12:33:01.980Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2026-09-01T13:19:24.371Z",
+      "last_pushed_at": "2026-09-01T13:19:24.371Z",
+      "language": "python",
+      "lines": 3
     }
   }
 }
