@@ -19,7 +19,8 @@ def multinomial_naive_bayes(X_train: np.ndarray, y_train: np.ndarray, X_test: np
     agg = np.array([X_train[y_train == c].sum(axis=0)for c in classes])
     
     D = X_train.shape[1]
-    pr_y_c= (agg+alpha)/(np.sum(agg)+D*alpha)
+    ##np.sum(agg) sums the counts across all classes, because agg has shape (number_of_classes, number_of_words).Wu need a separate denominator for each class. Sum along axis=1, keeping the dimensions aligned
+    pr_y_c = (agg + alpha) / (agg.sum(axis=1, keepdims=True) + D * alpha)
     log_pr = np.log(pr_y_c)
 
 

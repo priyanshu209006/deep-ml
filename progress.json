@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T21:30:27.638Z",
+  "generated_at": "2026-10-17T21:38:09.744Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -517,9 +517,9 @@
       "url": "https://www.deep-ml.com/problems/817",
       "path": "problems/0817-multinomial-naive-bayes-classifier",
       "first_solved_at": "2026-10-17T21:30:26.638Z",
-      "last_pushed_at": "2026-10-17T21:30:26.638Z",
+      "last_pushed_at": "2026-10-17T21:38:08.692Z",
       "language": "python",
-      "lines": 31
+      "lines": 32
     }
   }
 }
