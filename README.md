@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**38** solved · 38 problems · 0 labs · 0 math
+**39** solved · 39 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -38,6 +38,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-08-28 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-09-01 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-10-25 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-10-17 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-10 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Epsilon-Insensitive Loss for SVM Regression](https://www.deep-ml.com/problems/813) | medium | 2026-10-16 | [solution](problems/0813-epsilon-insensitive-loss-for-svm-regression) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-07-25 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
