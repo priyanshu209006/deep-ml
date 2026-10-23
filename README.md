@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**47** solved · 47 problems · 0 labs · 0 math
+**48** solved · 48 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-07-25 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-10-19 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-10-18 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
+| [Implement Decision Tree for Regression](https://www.deep-ml.com/problems/286) | medium | 2026-10-23 | [solution](problems/0286-implement-decision-tree-for-regression) |
 | [Implement Entropy-based Split Selection](https://www.deep-ml.com/problems/284) | medium | 2026-10-23 | [solution](problems/0284-implement-entropy-based-split-selection) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-10-09 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-10-12 | [solution](problems/0173-implement-k-nearest-neighbors) |

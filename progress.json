@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T14:39:08.615Z",
+  "generated_at": "2026-10-23T18:20:04.886Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -611,6 +611,19 @@
       "last_pushed_at": "2026-10-23T14:39:08.487Z",
       "language": "python",
       "lines": 55
+    },
+    "problem:286": {
+      "kind": "problem",
+      "id": "286",
+      "title": "Implement Decision Tree for Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/286",
+      "path": "problems/0286-implement-decision-tree-for-regression",
+      "first_solved_at": "2026-10-23T18:20:04.458Z",
+      "last_pushed_at": "2026-10-23T18:20:04.458Z",
+      "language": "python",
+      "lines": 71
     }
   }
 }
