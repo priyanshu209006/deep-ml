@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**49** solved · 49 problems · 0 labs · 0 math
+**50** solved · 50 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -51,6 +51,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Entropy-based Split Selection](https://www.deep-ml.com/problems/284) | medium | 2026-10-23 | [solution](problems/0284-implement-entropy-based-split-selection) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-10-09 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-10-12 | [solution](problems/0173-implement-k-nearest-neighbors) |
+| [Implement Random Forest Feature Importance](https://www.deep-ml.com/problems/343) | medium | 2026-10-25 | [solution](problems/0343-implement-random-forest-feature-importance) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-19 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-08-19 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-19 | [solution](problems/0007-matrix-transformation) |
