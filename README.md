@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**58** solved · 58 problems · 0 labs · 0 math
+**59** solved · 59 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-11-01 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-10-21 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
 | [Implement Hinge Loss for SVM](https://www.deep-ml.com/problems/283) | easy | 2026-10-16 | [solution](problems/0283-implement-hinge-loss-for-svm) |
+| [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-11-03 | [solution](problems/0046-implement-precision-metric) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-10-30 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-10-31 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Implement the ELU Activation Function](https://www.deep-ml.com/problems/97) | easy | 2026-08-22 | [solution](problems/0097-implement-the-elu-activation-function) |
